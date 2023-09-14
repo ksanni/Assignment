@@ -1,0 +1,19 @@
+.nav{
+    background: #CACCCF;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  overflow: hidden;
+
+}
+.nav h1{
+    color: #ffffff;
+}
+.logo span{
+    font-size: 23px;
+    font-weight: 500;
+   
+
+}

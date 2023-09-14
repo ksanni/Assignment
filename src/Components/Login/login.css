@@ -1,0 +1,33 @@
+#remeber{
+    position: relative !important;
+    right: 139px !important;
+}
+#btn1{
+    width: 180px !important;
+    position: relative;
+    right: 120px;
+    font-weight: 500;
+    font-size: 21px;
+}
+.titleLogin{
+    background: #FA741B;
+    width: 530px;
+    text-align: center;
+    border-radius: 25px;
+    color: #FFFFFF;
+    padding: 2px;
+   margin: 0 auto;
+   margin-top: 23px;
+}
+.chooseOption{
+    margin: 0 auto;
+    margin-left: 40%;
+    margin-top:32px;
+    font-size: large;
+}
+.chooseOption input{
+    margin-left: 12px;
+}
+.chooseOption span{
+    margin-right: 35px;
+}
